@@ -5,4 +5,4 @@
 - uptotop：回到顶部
 
 ## 调用说明
-- https://fastly.jsdelivr.net/gh/5iehomecc/wpblog@latest/js/
+- `https://fastly.jsdelivr.net/gh/5iehomecc/wpblog@latest/js/`
