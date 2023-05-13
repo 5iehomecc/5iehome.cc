@@ -6,6 +6,7 @@
 - click_heart.js: 点击页面出现爱心
 - busuanzi.pure.mini.js: 访问量统计
 - docsify-footer-enh.min.js: docsify 添加页脚
+- pwa.js: docsify 离线模式
 
 ## 调用说明
 - `https://fastly.jsdelivr.net/gh/5iehomecc/wpblog@latest/js/XXX.js`
