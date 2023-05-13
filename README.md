@@ -1,4 +1,4 @@
-# WordPress 静态资源调用
+# 网站静态资源调用
 
 ## 目录结构
 - img：存放文章封面，配图，结合 PigGo token，用于直接 PigGo 上传图片
